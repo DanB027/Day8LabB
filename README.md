@@ -1,2 +1,2 @@
 # Day8LabB
-Day8LabB Turn-In
+An exception will be instigated when the user puts in a letter.
